@@ -17,7 +17,7 @@
 - Tu tiempo y precisión se calcularán automáticamente. 📊🔢
 
 ### Resultado Final 🥇
-<img src="PruebaEscrituraVeloz/foto1.png" alt="Interfaz de Inicio" width="400px">
+<img src="PruebaEscrituraVeloz/foto3.png" alt="Interfaz de Inicio" width="400px">
 
 - Una vez que hayas terminado de escribir la frase y presionado Enter, se mostrará tu tiempo y precisión en la pantalla. 🏆⏱️
 - ¡Supera tus récords y comparte tus resultados! 🥇🚀

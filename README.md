@@ -37,7 +37,7 @@
 
 ## Licencia 📜
 
-Este proyecto está disponible bajo la Licencia [nombre de la licencia] - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles. 📜👓
+Este proyecto está disponible bajo la Licencia MIT License - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles. 📜👓
 
 ¡Diviértete probando tu velocidad de escritura y mejorando tus habilidades! 😄📝
 

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Ferran Coll Lopez
+Copyright (c) 2023 Ferran226
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software y permitir a las personas a las que se les proporcione el Software hacerlo, sujeto a las siguientes condiciones:
 

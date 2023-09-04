@@ -5,7 +5,7 @@
 ## Capturas de Pantalla 📸
 
 ### Interfaz de Inicio 🚀
-![Interfaz de Inicio](PruebaEscrituraVeloz/foto1.png)
+![Interfaz de Inicio]<img src="PruebaEscrituraVeloz/foto1.png" alt="Interfaz de Inicio" width="400px">
 
 - La interfaz de inicio muestra una frase de ejemplo que debes escribir rápidamente. 🏁💨
 - Haz clic en el botón "Comenzar prueba" para empezar. 🚀🚀

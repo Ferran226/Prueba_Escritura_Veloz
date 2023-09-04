@@ -5,19 +5,19 @@
 ## Capturas de Pantalla 📸
 
 ### Interfaz de Inicio 🚀
-![Interfaz de Inicio]<img src="PruebaEscrituraVeloz/foto1.png" alt="Interfaz de Inicio" width="400px">
+<img src="PruebaEscrituraVeloz/foto1.png" alt="Interfaz de Inicio" width="400px">
 
 - La interfaz de inicio muestra una frase de ejemplo que debes escribir rápidamente. 🏁💨
 - Haz clic en el botón "Comenzar prueba" para empezar. 🚀🚀
 
 ### En Plena Prueba 📝
-![En Plena Prueba](foto2.png)
+<img src="PruebaEscrituraVeloz/foto2.png" alt="Interfaz de Inicio" width="400px">
 
 - Durante la prueba, se mostrará una frase en la pantalla que debes escribir lo más rápido y preciso posible. ⏱️📝
 - Tu tiempo y precisión se calcularán automáticamente. 📊🔢
 
 ### Resultado Final 🥇
-![Resultado Final](foto3.png)
+<img src="PruebaEscrituraVeloz/foto1.png" alt="Interfaz de Inicio" width="400px">
 
 - Una vez que hayas terminado de escribir la frase y presionado Enter, se mostrará tu tiempo y precisión en la pantalla. 🏆⏱️
 - ¡Supera tus récords y comparte tus resultados! 🥇🚀

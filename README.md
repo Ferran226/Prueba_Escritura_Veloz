@@ -1,4 +1,49 @@
-# Prueba de Escritura Veloz 👩‍💻🚀
+# 🇺🇸 Fast Typing Test 👩‍💻🚀
+
+Welcome to the Fast Typing Test! This is a small project to measure your typing speed and accuracy. Test your skills and improve your times! 🏁📈
+
+## Screenshots 📸
+
+### Start Screen 🚀
+<img src="PruebaEscrituraVeloz/foto1.png" alt="Interfaz de Inicio" width="400px">
+
+- The start screen displays a sample phrase that you must quickly type. 🏁💨
+- Click the "Start Test" button to begin. 🚀🚀
+
+### In the Middle of the Test 📝
+<img src="PruebaEscrituraVeloz/foto2.png" alt="Interfaz de Inicio" width="400px">
+
+- During the test, a phrase will be displayed on the screen that you must type as quickly and accurately as possible. ⏱️📝
+- Your time and accuracy will be calculated automatically. 📊🔢
+
+### Final Result 🥇
+<img src="PruebaEscrituraVeloz/foto3.png" alt="Interfaz de Inicio" width="400px">
+
+- Once you've finished typing the phrase and pressed Enter, your time and accuracy will be displayed on the screen. 🏆⏱️
+- Beat your records and share your results! 🥇🚀
+
+## How to Use 📝
+
+1. Run the program. 🚀
+2. Click "Start Test" to initiate the typing test. 📝
+3. Type the displayed phrase as quickly and accurately as possible. 💨🎯
+4. When you're done, press Enter to view your result. ⏱️📊
+5. Share your results and improve your typing speed! 🥇🚀
+
+## Requirements 📋
+
+- Python 3.x 🐍
+- Tkinter library (usually included with Python) 🖼️
+
+## License 📜
+
+This project is available under the MIT License - check the [LICENSE.md](LICENSE.md) file for more details. 📜👓
+
+Have fun testing your typing speed and improving your skills! 😄📝
+
+---
+
+# 🇪🇸 Prueba de Escritura Veloz 👩‍💻🚀
 
 ¡Bienvenido a la Prueba de Escritura Veloz! Este es un pequeño proyecto para medir tu velocidad de escritura y precisión. ¡Pon a prueba tus habilidades y mejora tus tiempos! 🏁📈
 
